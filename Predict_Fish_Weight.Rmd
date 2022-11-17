@@ -120,3 +120,5 @@ as.data.frame(summary.out$outmat)
 The best models using two predictors for Roach are Width and Length 3.
 
 ## Final Summary Statements
+
+The adjusted R-square for Perch is 0.9372, The adjusted R-square for Pike is 0.9794, and the adjusted R-square for Roach is 0.821.
